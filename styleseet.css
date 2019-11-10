@@ -1,0 +1,33 @@
+.container{
+    width: 80%;
+    text-align: center;
+    margin-left:110px;
+
+}
+
+
+
+.grid-item{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display:inline-block;
+}
+
+.green{
+    background-color:darkgreen;
+}
+
+.red{
+    background-color:tomato;
+}
+.blue{
+    background-color:cornflowerblue;
+}
+.purple{
+    background-color:violet;
+    
+}
+.orange{
+    background-color:orange;
+}
